@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shoane
 - 👀 I’m interested in anything related to product development, management, design
-- 🌱 I’m currently learning Vue 3 and Capacitor
+- 🌱 I’m currently learning React and Next.js
 - 💞️ I’m looking to collaborate on any project where I get to learn development
 - 📫 How to reach me -> add me on Discord AndreiVintila#5618
 
